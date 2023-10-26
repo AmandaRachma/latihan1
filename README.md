@@ -1,4 +1,5 @@
-# latihan1
+# DocumentationPractice
+This is a simple project to practice creating documentation in a README file.
 
  ## Usage
  1. Clone the repository to your local machine.
